@@ -1,6 +1,6 @@
-Curso Desarrollo Web Full Stack
+**Curso Desarrollo Web Full Stack**
 
-Clase 04 (HTML & CSS)
+*Clase 04 (HTML & CSS)*
 
 
 1. Para esta práctica vamos a trabajar sobre un directorio nuevo. Dentro del cual vamos a:
@@ -12,7 +12,7 @@ Clase 04 (HTML & CSS)
 ![Image description](https://lh6.googleusercontent.com/2Iky6lG0KqfQdPa_2b17gGt13JPw_GaPB6X3f0WN8qrVm-97c1ci2BGAIGbPfJVKuocT-jS1jiIuykIN67PI5J3KR4dCGvoKlKlgPA-iwh6mKsnR3xuwGyFM693_l7TQCqdAbaSs)
 
 
-e. Teniendo en cuenta que:
+Teniendo en cuenta que:
 - [ ] Los contenedores del header y de todos los productos deben tener un ancho de 960px.
 - [ ] El contenedor header deberá quedar fijo en su posición. No deberá desplazarse al hacer scroll.
 - [ ] Cada contenedor de producto debe tener de ancho 300px y 10px de margen.
