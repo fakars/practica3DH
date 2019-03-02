@@ -4,10 +4,10 @@
 
 
 1. Para esta práctica vamos a trabajar sobre un directorio nuevo. Dentro del cual vamos a:
-- [ ] Crear un archivo llamado index.html.
-- [ ] Crear una hoja de estilos llamada style.css la cual deberá estar guardada dentro de un directorio con nombre css.
-- [ ] Crear un directorio llamado images que       albergará las imágenes que usaremos para este ejercicio.
-- [ ] Dentro del archivo index.html y haciendo uso de los tags y reglas de css que hasta el momento conocemos, replicar el siguiente layout:
+  - [ ] Crear un archivo llamado index.html.
+  - [ ] Crear una hoja de estilos llamada style.css la cual deberá estar guardada dentro de un directorio con nombre css.
+  - [ ] Crear un directorio llamado images que       albergará las imágenes que usaremos para este ejercicio.
+  - [ ] Dentro del archivo index.html y haciendo uso de los tags y reglas de css que hasta el momento conocemos, replicar el siguiente layout:
 
 ![Image description](https://lh6.googleusercontent.com/2Iky6lG0KqfQdPa_2b17gGt13JPw_GaPB6X3f0WN8qrVm-97c1ci2BGAIGbPfJVKuocT-jS1jiIuykIN67PI5J3KR4dCGvoKlKlgPA-iwh6mKsnR3xuwGyFM693_l7TQCqdAbaSs)
 
