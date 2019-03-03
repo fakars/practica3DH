@@ -1,5 +1,5 @@
 *{
-  box-sizing: border-box;
+
   margin: 0 auto;
   padding: 0;
 }
@@ -17,14 +17,15 @@ body{
 }
 
 .navbar{
-
-  position: relative;
-  margin-top: 4%;
+  box-sizing: border-box;
+  position: fixed;
+  top: 8%;
+  left: 18.8%;
   height:50px;
-
   background-color: rgb(239,76,39);
   width: 960px;
   padding-left: 5%;
+  z-index: 1;
 }
 
 .navbar li{
@@ -38,26 +39,83 @@ body{
 
 .navbar a{
   font-family: Tahoma, sans-serif;
-
   text-align: center;
   text-decoration: none;
   color:white;
 }
 
 .productos{
-
-  position: relative;
-  overflow: hidden;
+  position: absolute;
   background-color: white;
+  margin-top: 6%;
+  overflow: hidden;
   width: 960px;
-  padding: 10px;
-  top: 70px;
+  left:18.8%;
+  top:12%;
 
 }
 
-.productos img{
+article {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  left:1.1%;
+  margin-top: 2%;
 
-  float: left;
-  background-color: white;
 
+}
+
+article:nth-child(2){
+  margin: 0 15px 0 15px;
+}
+
+article:nth-child(5){
+  margin: 0 15px 0 15px;
+}
+
+article:nth-child(8){
+  margin: 0 15px 0 15px;
+}
+
+
+
+span{
+
+  background-color: black;
+  position: absolute;
+  background-color: rgba(0,0,0,0.5);
+  width: 100%;
+  top:46%;
+}
+
+article p {
+
+  font-family: Tahoma;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  color:white;
+  padding: 1%;
+}
+
+
+
+.banderin{
+  position:absolute;
+  left:73%;
+  bottom:59.6%;
+}
+
+.vermas{
+
+
+  font-size: 18px;
+  color: white;
+  padding:3% 4% 3% 4%;
+  background-color: red;
+  position: absolute;
+  bottom:7%;
+  left: 33.5%;
+  border:0;
 }
