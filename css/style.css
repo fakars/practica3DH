@@ -2,7 +2,9 @@
 
   margin: 0 auto;
   padding: 0;
+
 }
+
 body{
 
   background-image: url("../img/bg-2.png");
@@ -17,6 +19,7 @@ body{
 }
 
 .navbar{
+
   box-sizing: border-box;
   position: fixed;
   top: 8%;
@@ -26,6 +29,7 @@ body{
   width: 960px;
   padding-left: 5%;
   z-index: 1;
+
 }
 
 .navbar li{
@@ -34,17 +38,21 @@ body{
   display: inline;
   list-style: none;
   padding: 1.7% 0 0 1.2%;
+
 }
 
 
 .navbar a{
+
   font-family: Tahoma, sans-serif;
   text-align: center;
   text-decoration: none;
   color:white;
+
 }
 
 .productos{
+
   position: absolute;
   background-color: white;
   margin-top: 6%;
@@ -56,28 +64,32 @@ body{
 }
 
 article {
+
   position: relative;
   display: inline-block;
   overflow: hidden;
   left:1.1%;
   margin-top: 2%;
 
-
 }
 
 article:nth-child(2){
+
   margin: 0 15px 0 15px;
+
 }
 
 article:nth-child(5){
+
   margin: 0 15px 0 15px;
+
 }
 
 article:nth-child(8){
+
   margin: 0 15px 0 15px;
+
 }
-
-
 
 span{
 
@@ -86,6 +98,7 @@ span{
   background-color: rgba(0,0,0,0.5);
   width: 100%;
   top:46%;
+
 }
 
 article p {
@@ -97,18 +110,17 @@ article p {
   text-align: center;
   color:white;
   padding: 1%;
+
 }
 
-
-
 .banderin{
+
   position:absolute;
   left:73%;
   bottom:59.6%;
 }
 
 .vermas{
-
 
   font-size: 18px;
   color: white;
@@ -118,4 +130,5 @@ article p {
   bottom:7%;
   left: 33.5%;
   border:0;
+  
 }
