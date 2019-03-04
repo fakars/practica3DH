@@ -20,8 +20,7 @@ vermas8.addEventListener('click', abrirModal);
 vermas9.addEventListener('click', abrirModal);
 
 function abrirModal(){
-  modal.style.display='block';
-  
+  modal.style.display='block';  
 }
 
 var btnCerrar = document.getElementById('boton-cerrar');
