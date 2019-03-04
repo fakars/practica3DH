@@ -158,7 +158,7 @@ article p {
   box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.17);
   overflow: hidden;
   border: 3px solid #EF4C27;
-  animation-name:modalopen;
+  animation-name:abrirModal;
   animation-duration: 1.2s;
 }
 
@@ -210,7 +210,7 @@ article p {
   cursor: pointer;
 }
 
-@keyframes modalopen {
+@keyframes abrirModal {
   from{opacity: 0}
   to{opacity: 1}
 }
